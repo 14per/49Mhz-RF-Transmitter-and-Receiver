@@ -1,6 +1,6 @@
 # 49Mhz-RF-Transmitter-and-Receiver
 Transmitter and Receiver Operating at 49.152Mhz 
-![](Full_V1.PNG)
+![](Images/Full_V1.PNG)
 ![](Full_V1_P1.PNG)
 ![](Full_V1_P2.PNG)
 ![](Full_V1_P3.PNG)
